@@ -6,5 +6,6 @@ public class MyTest {
     @GetMapping("test")
     private void test(){
         System.out.println("This is my test class");
+        System.out.println("this will work");
     }
 }
